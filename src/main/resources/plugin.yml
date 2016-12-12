@@ -1,0 +1,14 @@
+name: InSigns
+main: de.mais.elytragame.ElytraGame
+version: '${version}'
+authors: [${authors}]
+website: '${url}'
+description: '${description}'
+depend: []
+permissions:
+  elytraparkour.player:
+    description: Ability to play challenges.
+    default: true
+  insigns.admin:
+    description: Ability to create challenges.
+    default: op
