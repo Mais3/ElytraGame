@@ -1,4 +1,4 @@
-name: InSigns
+name: ElytraGame
 main: de.mais.elytragame.ElytraGame
 version: '${version}'
 authors: [${authors}]
